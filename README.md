@@ -14,5 +14,5 @@ is created for performing unit tests by using xUnit which is an open-source, com
 
 3. The Swagger UI is provided for testing file storage API services, including create, update, delete, retrieve data files. 
 
-4. AgorusFileService and AgoruaFileService.Tests should be placed in the same directory.To run the simple 
+4. AgorusFileService.zip and AgoruaFileService.Tests.zip should be unzipped and placed in the same directory.To run the simple 
 file storage API service application, either Microsoft Visual Studio Professional 2022 or IIS server is required.
